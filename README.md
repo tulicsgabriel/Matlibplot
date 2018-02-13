@@ -1,2 +1,2 @@
-# Random-code-samples
-Examples of statistical and machine learning codes in Python
+# Matlibplot examples
+Examples of line plots, histograms, pie charts
